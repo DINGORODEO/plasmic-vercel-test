@@ -1,1 +1,1 @@
-# plasmic-vercel-test
+equip-vercel-test
